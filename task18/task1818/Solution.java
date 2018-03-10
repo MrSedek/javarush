@@ -1,7 +1,7 @@
 package com.javarush.task.task18.task1818;
 
 /* 
-Два в одном
+Р”РІР° РІ РѕРґРЅРѕРј
 */
 
 import java.io.*;
