@@ -1,7 +1,7 @@
-package com.javarush.task.task18.task1819;
+ï»¿package com.javarush.task.task18.task1819;
 
 /* 
-Îáúåäèíåíèå ôàéëîâ
+ĞĞ±ÑŠĞµĞ´Ğ¸Ğ½ĞµĞ½Ğ¸Ğµ Ñ„Ğ°Ğ¹Ğ»Ğ¾Ğ²
 */
 
 import java.io.*;

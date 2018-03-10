@@ -1,7 +1,7 @@
-package com.javarush.task.task18.task1820;
+п»їpackage com.javarush.task.task18.task1820;
 
 /* 
-Округление чисел
+РћРєСЂСѓРіР»РµРЅРёРµ С‡РёСЃРµР»
 */
 
 import java.io.*;
